@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:cand_name;datatype:string,name:party;datatype:string,name:vice_count;datatype:string" />
+</info>

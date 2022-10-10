@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:First_name;datatype:string,name:Last_name;datatype:string,name:sex;datatype:string,name:Age;datatype:string,name:Address;datatype:blob,name:Student_id;datatype:string,name:country;datatype:string,name:state;datatype:string,name:state_nonindigene;datatype:string,name:phone;datatype:string,name:e_mail;datatype:string,name:faculty;datatype:string,name:level;datatype:string,name:username;datatype:string,name:Voters_id;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:username;datatype:string,name:election_id;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:pres_attemps;datatype:string,name:gov_attemps;datatype:string,name:election_id;datatype:string" />
+</info>
